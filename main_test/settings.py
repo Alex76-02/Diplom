@@ -6,4 +6,4 @@ BASE_URL_3 = "https://api.kinopoisk.dev/v1.4/movie?page=1&limit=10&"
 "selectFields=name&selectFields=year&notNullFields=name&notNullFields=year&"
 
 
-API_KEY = "WQV5DTP-SC2463P-N9C1PVK-MFR2CFP"  # Заменить на реальный токен
+API_KEY = "Token"  # Заменить на реальный токен

@@ -11,7 +11,7 @@ class PageUI:
         self._driver.get("https://www.kinopoisk.ru/")
         self._driver.maximize_window()
 
-    def find_cyrillic_positive_ui(self) -> str:
+    def find_cyrillic_positive_ui(self):
 
         self._driver.find_element(
             By.CSS_SELECTOR, ".styles_inputActive__mIqMs"
